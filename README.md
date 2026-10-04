@@ -151,7 +151,7 @@ Vector Store
 Relevant Context Retrieval
     │
     ▼
-LLM
+   LLM
     │
     ▼
 Answer
