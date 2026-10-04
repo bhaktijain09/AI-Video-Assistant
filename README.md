@@ -154,7 +154,7 @@ Relevant Context Retrieval
    LLM
     │
     ▼
-Answer
+  Answer
 ```
 
 This allows users to ask questions such as:
