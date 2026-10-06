@@ -43,7 +43,6 @@ pip install -r Requirements.txt
 
 Create a `.env` file in the project root.
 ```
-YOUTUBE_API_KEY=your_youtube_api_key
 GROQ_API_KEY=your_groq_api_key
 ```
 
